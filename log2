@@ -1,2 +1,0 @@
-unreachable dest 3
-forward packet dest 3 nexthop 3 message hello
